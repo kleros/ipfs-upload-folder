@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ipfs-http-client": "^60.0.0"
+  },
+  "prettier": {
+    "semi": false
+  }
+}
